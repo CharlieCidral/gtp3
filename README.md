@@ -1,3 +1,12 @@
+## GPT-3 Template
+
+### `Fully Responsive Modern UI/UX Website in React JS`
+
+![image](https://user-images.githubusercontent.com/69029099/210199917-153fb0a1-fa2c-46b1-a2ed-2a3b47e09fc4.png)
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
